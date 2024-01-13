@@ -1,6 +1,6 @@
 # Know-Your-Food
 
-"Discover recipes with calorie details for each ingredient, enhancing your flavorful experience."
+"Discover recipes with calorie details for each ingredient, enhancing your flavorful experience."<br>
 "Edamam search receipe and search-nutritional-details API used to fetch data."
 # Technologies Used:
 
